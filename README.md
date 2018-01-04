@@ -3,7 +3,7 @@
 This script takes a list of names seperated by line in a file called names.txt and prints out the Character names, Corporation, and Alliance. If the character does not have an alliance they are given placed in the C C P Alliance
 
 # Example
-input: 
+### input: 
 
 Affamole
 
@@ -11,7 +11,8 @@ Garry Caderu
 
 Lord Bantal 
 
-Output: 
+
+### Output: 
 
 Affamole: Test Bong Quality Control Team: Violente Fortuna
 
