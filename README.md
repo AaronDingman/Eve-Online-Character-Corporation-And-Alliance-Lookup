@@ -6,11 +6,15 @@ This script takes a list of names seperated by line in a file called names.txt a
 input: 
 
 Affamole
+
 Garry Caderu
+
 Lord Bantal 
 
 Output: 
 
 Affamole: Test Bong Quality Control Team: Violente Fortuna
+
 Garry Caderu: Garry's Discount Spaceships: C C P Alliance
+
 Lord Bantal: United Earth Space Council: Cyno.Up
